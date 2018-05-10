@@ -1,6 +1,6 @@
 #!python
 
-# The Art+Logic Programming Challenge
+# The ZZZ+Logic Programming Challenge
 # Part 1: encode and decode
 
 # Encode:
